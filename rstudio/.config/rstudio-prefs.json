@@ -1,0 +1,19 @@
+{
+    "initial_working_directory": "~",
+    "posix_terminal_shell": "zsh",
+    "save_workspace": "never",
+    "load_workspace": false,
+    "always_save_history": false,
+    "font_size_points": 16,
+    "default_project_location": "~/dev",
+    "rainbow_parentheses": true,
+    "jobs_tab_visibility": "shown",
+    "terminal_bell_style": "none",
+    "editor_theme": "One Dark {rsthemes}",
+    "restore_source_documents": false,
+    "restore_last_project": false,
+    "insert_native_pipe_operator": true,
+    "source_with_echo": true,
+    "new_proj_git_init": true,
+    "show_terminal_tab": false
+}
