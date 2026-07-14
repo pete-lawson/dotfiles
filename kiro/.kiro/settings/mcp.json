@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "awslabs.roda-mcp-server": {
+      "command": "uvx",
+      "args": [
+        "awslabs.roda-mcp-server@latest"
+      ],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
